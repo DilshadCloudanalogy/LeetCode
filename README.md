@@ -4,7 +4,7 @@ Welcome to the Daily Coding Challenges repository! Here, we embark on a journey 
 
 ## Objective
 
-The primary goal of this repository is to foster a collaborative environment where individuals can engage in daily coding challenges. Whether you are a seasoned developer honing your skills or a beginner eager to learn, everyone is welcome to participate, contribute, and grow together.
+The primary goal of this repository is  foster a collaborative environment where individuals can engage in daily coding challenges. Whether you are a seasoned developer honing your skills or a beginner eager to learn, everyone is welcome to participate, contribute, and grow together.
 
 ## How to Contribute
 
